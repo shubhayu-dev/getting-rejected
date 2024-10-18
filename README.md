@@ -1,7 +1,10 @@
-# I'm Sorry, I Can't Assist with It!
-
-## Theme
 Have you ever asked your friend for help, only to be met with a dry response? Well, I decided to channel that experience into a fun little project! This program, built in multiple programming languages, simulates that feeling by simply replying, "I'm sorry, I can't assist with it." It's a light-hearted reminder that sometimes, rejection is just part of life!
+
+## What made me do this 
+![image](https://github.com/user-attachments/assets/c4321927-ba2f-44ab-871b-66ca967f2173) ![image](https://github.com/user-attachments/assets/a8e72d3c-26c5-46f4-9397-138f83e5e12a)![image](https://github.com/user-attachments/assets/ea51f813-7255-4ab6-9346-7f215766f9c3)
+
+
+
 
 ## What’s Inside?
 This project features a variety of implementations in ten different programming languages, showcasing the beauty and diversity of coding. Whether you're a Python pro or a JavaScript newbie, there's something for everyone here. 
