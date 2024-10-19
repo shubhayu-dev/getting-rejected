@@ -32,6 +32,7 @@ This project features a variety of implementations in ten different programming 
 - Crystal
 - Nim
 - Shell Scripting (Bash)
+- R
 
 ## Integrations and Features
 - **Cross-Platform Support**: Each language implementation can run on various platforms, allowing you to experience the rejection wherever you are.
