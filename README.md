@@ -24,6 +24,7 @@ This project features a variety of implementations in ten different programming 
 - lua
 - Rust
 - C
+- Dart
 
 ## Integrations and Features
 - **Cross-Platform Support**: Each language implementation can run on various platforms, allowing you to experience the rejection wherever you are.
