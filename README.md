@@ -18,6 +18,7 @@ This project features a variety of implementations in ten different programming 
 - `/C#/`
 - `/C++/`
 - `/Crystal/`
+- `/COBOL/`
 - `/Dart/`
 - `/Elixir/`
 - `/Elm/`
