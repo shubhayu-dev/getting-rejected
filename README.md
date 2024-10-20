@@ -50,6 +50,7 @@ This project features a variety of implementations in ten different programming 
 - `/Turing/`
 - `/TypeScript/`
 - `/Vala/`
+- `/VBScript/`
 - `/Zig/`
 
 ## Integrations and Features
