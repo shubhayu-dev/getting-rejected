@@ -45,6 +45,7 @@ This project features a variety of implementations in ten different programming 
 - Haxe
 - Zig
 - SQL
+- Puppet
 
 ## Integrations and Features
 - **Cross-Platform Support**: Each language implementation can run on various platforms, allowing you to experience the rejection wherever you are.
