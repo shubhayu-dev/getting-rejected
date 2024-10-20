@@ -1,2 +1,2 @@
-input = InputBox("Please enter something:")
+input = InputBox("Input please")
 MsgBox "I'm sorry, I can't assist with it."
