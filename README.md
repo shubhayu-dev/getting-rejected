@@ -35,6 +35,14 @@ This project features a variety of implementations in ten different programming 
 - R
 - Objective-C
 - Haskell
+- OCaml
+- Solidity
+- Hack
+- Groovy
+- F#
+- Assembly Language
+- Elm
+- Haxe
 
 ## Integrations and Features
 - **Cross-Platform Support**: Each language implementation can run on various platforms, allowing you to experience the rejection wherever you are.
