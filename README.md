@@ -25,6 +25,7 @@ This project features a variety of implementations in ten different programming 
 - `/C++/`
 - `/Crystal/`
 - `/COBOL/`
+- `/D/`
 - `/Dart/`
 - `/Elixir/`
 - `/Elm/`
