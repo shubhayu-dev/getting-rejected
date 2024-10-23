@@ -12,55 +12,54 @@ Have you ever asked your friend for help, only to be met with a dry response? �
 
 ## 🛠️ What’s Inside?
 
-This project features a variety of implementations in ten different programming languages, showcasing the beauty and diversity of coding. 🌈 Whether you're a Python pro or a JavaScript newbie, there's something for everyone here.
+This project features a variety of implementations in many programming languages, showcasing the beauty and diversity of coding. 🌈 Whether you're a Python pro or a JavaScript newbie, there's something for everyone here.
 
 ---
 
-## 📁 Folder Structure
+## 📁 Programming Languages
 
-- `/Assembly Language/`
-- `/Bash (Shell Scripting)/`
-- `/C/`
-- `/C#/`
-- `/C++/`
-- `/Crystal/`
-- `/COBOL/`
-- `/D/`
-- `/Dart/`
-- `/Elixir/`
-- `/Elm/`
-- `/F#/`
-- `/Go/`
-- `/Groovy/`
-- `/Hack/`
-- `/Haskell/`
-- `/Haxe/`
-- `/Java/`
-- `/JavaScript/`
-- `/Julia/`
-- `/Kotlin/`
-- `/Lua/`
-- `/Nim/`
-- `/Objective-C/`
-- `/OCaml/`
-- `/Pascal/`
-- `/Perl/`
-- `/PHP/`
-- `/Puppet/`
-- `/Python/`
-- `/R/`
-- `/Ruby/`
-- `/Rust/`
-- `/Scala/`
-- `/Solidity/`
-- `/SQL/`
-- `/Swift/`
-- `/Turing/`
-- `/TypeScript/`
-- `/Vala/`
-- `/VBScript/`
-- `/Zig/`
-
+- [Assembly Language](/Assembly%20Language.asm)
+- [Bash (Shell Scripting)](/Shell%20Scripting%20(Bash).sh)
+- [C](/c.c)
+- [C#](/CSharp.cs)
+- [C++](/cplusplus.cpp)
+- [Crystal](/Crystal.cr)
+- [COBOL](/COBOL.cbl)
+- [D](/D.d)
+- [Dart](/dart.dart)
+- [Elixir](/elixir.exs)
+- [Elm](/Elm.elm)
+- [F#](/FSharp.fs)
+- [Go](/go.go)
+- [Groovy](/Groovy.groovy)
+- [Hack](/Hack.hack)
+- [Haskell](/Haskell.hs)
+- [Haxe](/Haxe.hx)
+- [Java](/main.java)
+- [JavaScript](javascript.js)
+- [Julia](/Julia.jl)
+- [Kotlin](/kotlin.kt)
+- [Lua](/lua.lua)
+- [Nim](/Nim.nim)
+- [Objective-C](/Objective-C.m)
+- [OCaml](/OCaml.ml)
+- [Pascal](/pascal.pas)
+- [Perl](/Perl.pl)
+- [PHP](/php.php)
+- [Puppet](/Puppet.pp)
+- [Python](/python.py)
+- [R](/R.r)
+- [Ruby](/ruby.rb)
+- [Rust](/rust.rs)
+- [Scala](/scala.scala)
+- [Solidity](/Solidity.sol)
+- [SQL](/PL/SQL.sql)
+- [Swift](/swift.swift)
+- [Turing](/Turing.t)
+- [TypeScript](/typescript.ts)
+- [Vala](/Vala.vala)
+- [VBScript](/VBScript.vbs)
+- [Zig](/Zig.zig)
 
 ---
 
