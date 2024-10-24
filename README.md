@@ -51,6 +51,10 @@ This project features a variety of implementations in ten different programming 
 - `/TypeScript/`
 - `/Vala/`
 - `/Zig/`
+- `/HTML/`
+- `/GDScript/`
+- `/Clojure/`
+- `/PureScript/`
 
 ## Integrations and Features
 
