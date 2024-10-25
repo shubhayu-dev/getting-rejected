@@ -1,0 +1,5 @@
+plug :main do
+  IO.puts "What can I help you with?"
+  _ = IO.gets ""
+  IO.puts "I'm sorry, I can't assist with it."
+end

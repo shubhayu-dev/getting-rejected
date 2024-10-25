@@ -1,0 +1,5 @@
+procedure main()
+    write("What can I help you with?")
+    input := read()
+    write("I'm sorry, I can't assist with it.")
+end
