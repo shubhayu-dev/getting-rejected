@@ -1,0 +1,3 @@
+WriteLine("What can I help you with?")
+input = ReadLine()
+WriteLine("I'm sorry, I can't assist with it.")
