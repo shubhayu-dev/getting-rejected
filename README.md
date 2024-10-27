@@ -71,6 +71,7 @@ This project features a variety of implementations in many programming languages
 - [Prolog](/Prolog.pro)
 - [PureScript](/PureScript.purs)
 - [Python](/python.py)
+- [R](/R.r)
 - [Racket](/Racket.rkt)
 - [Ruby](/ruby.rb)
 - [Rust](/rust.rs)
